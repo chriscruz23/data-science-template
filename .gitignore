@@ -1,3 +1,6 @@
+# Uncomment data and .env files for project!
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -57,7 +60,7 @@ docs/_build/
 target/
 
 # DotEnv configuration
-.env
+# .env
 
 # Database
 *.db
@@ -93,4 +96,4 @@ target/
 /models/
 
 # exclude data from source control by default
-# /data/
+# /data
