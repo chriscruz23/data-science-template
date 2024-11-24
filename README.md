@@ -16,12 +16,7 @@ Ensure you adjust the `.gitignore` file according to your project needs.
 # /data/
 ```
 
-## Duplicating the .env File
-To set up your environment variables, you need to duplicate the `.env.example` file and rename it to `.env`. You can do this manually or using the following terminal command:
-
-```bash
-cp .env.example .env # Linux, macOS, Git Bash, WSL
-copy .env.example .env # Windows Command Prompt
+## Uncomment .env and /data in the .gitignore File
 ```
 
 This command creates a copy of `.env.example` and names it `.env`, allowing you to configure your environment variables specific to your setup.
