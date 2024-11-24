@@ -17,10 +17,8 @@ Ensure you adjust the `.gitignore` file according to your project needs.
 ```
 
 ## Uncomment .env and /data in the .gitignore File
-```
 
-This command creates a copy of `.env.example` and names it `.env`, allowing you to configure your environment variables specific to your setup.
-
+.env and /data has been commented out in the .gitignore file so that it may be uploaded.
 
 ## Project Organization
 
