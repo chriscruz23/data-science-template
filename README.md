@@ -1,7 +1,7 @@
 # Data Project Template
 
-## Cookiecutter Data Science
-This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, originally created for Datalumina.
+This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template. Used as inspiration for my own starting
+point for data science projects.
 
 ## Adjusting .gitignore
 
